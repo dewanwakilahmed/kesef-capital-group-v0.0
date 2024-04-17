@@ -7,8 +7,9 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "",
-  description: "",
+  title: "Business Loans & Funding Solutions | Kesef Capital Group",
+  description:
+    "Discover tailored Merchant Cash Advances and SBA Loans with Kesef Capital Group. Empower your small business with fast, reliable funding solutions designed to help you grow.",
 };
 
 interface RootLayoutProps {
